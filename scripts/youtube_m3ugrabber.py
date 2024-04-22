@@ -1,7 +1,7 @@
 #! /usr/bin/python3
 
 banner = r'''
- # T.me/likh0n
+ T.me/likh0n
 '''
 
 import requests
