@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Somoy_TV_logo.png/180px-Somoy_TV_logo.png" tvg-id="", Samoy Tv
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721668348/ei/nD6eZr7wE_aYsfIP4-Pi8Qw/ip/13.86.227.240/id/mg7pjGvaRDU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181297/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAW8-GCjmvS7u9YiHW_jTHY331ukIWoasKEenzQVWFEvAoPB77_oVgZFVZGI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPTlug5kvPL7AlseWAjdvXRi-KHYLJS-Q2_aFIAv-WptAiEAq9sxejT2cPewstzQilEYAA65jrH7WQeVMkdZEfBcWrw%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" tvg-id="", Channel I news
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
