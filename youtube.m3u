@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Somoy_TV_logo.png/180px-Somoy_TV_logo.png" tvg-id="", Samoy Tv
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721759296/ei/4KGfZsS8CurQlu8PuuGjsAU/ip/172.183.138.52/id/fpRRFWj7RhI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225979/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAUmXKPcPBvCWM0H5r3VRuZ691OXc5VHddspe3wDgh9cro_8ZT4qyAalHK08/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPRPMgV4cbo0IWKSKg47rK7LC7m44l6IhEm-vvHTodOMCIQCAcIpFst6z2XVhtHPV1fi9dicYqsx6aLGuyxaPXHlcMw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" tvg-id="", Channel I news
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm=s176-c-k-c0x00ffffff-no-rj" tvg-id="", News 24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721759300/ei/5KGfZpXsIeCZ2_gPgpKisAs/ip/172.183.138.52/id/3mdyOvtugL8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAR0v5SKJXfm1aveZS8ghvER8u0U7cPLpmO8VQyJDDiM0ODhWc5R3Xx31ZHw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgeRYu4V_3eui1q1BxPSnWRGlDAcLKkOJozgRwCIgbcpQCIQCRBqI6VrC8p89Cv1hhhUVvquApEYnU1s6GX_YRlq-VOA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721762256/ei/cK2fZvfxEviKkucPuZqOsA8/ip/40.79.247.229/id/3mdyOvtugL8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAaTFJR3M6_H4uCT9BvhbULRea5jDjAmsB5rN-bRUyBT4qSYj2Fah85u2Lcw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgFvrBsLcM6ZM3MvY7vpOlk6FqOyj503skD3FuUzRNJC0CIQD9uR32E6Mbz8z-KgOAfToc_uyJo-ldgwtHzcALyIhDzg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/eqxKhU9ty3Kr1CsG8bYcsAvXzEItOmE4qMxydBPg0i6w1jBiAiz6dJjnggYXz9mJQ1R05ZGv=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Ntv Live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
